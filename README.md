@@ -1,6 +1,6 @@
-# GANS and Deepfakes
+# Awesome-GANS-and-Deepfakes
 
-A collection of GAN & Deepfake papers and repositories. 
+A curated list of GAN & Deepfake papers and repositories. 
 
 ## GANs
 - Vanilla GAN [(paper)](https://arxiv.org/abs/1406.2661)
