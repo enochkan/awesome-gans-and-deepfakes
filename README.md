@@ -52,3 +52,8 @@ A curated list of GAN & Deepfake papers and repositories.
  ## Datasets
  - [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
  - [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
+ - [Facebook Deepfake Detection Challenge (DFDC) Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data)
+ - ["SwapMe and Faceswap" dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
+ - ["Fake Faces in the Wild (FFW) dataset](http://ali.khodabakhsh.org/research/ffw/)
+ - [Tampered Face (TAMFA) Dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
+ - [Celeb-DF(v2) Celebrity Deepfake Dataset](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)
