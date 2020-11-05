@@ -50,3 +50,6 @@ A curated list of GAN & Deepfake papers and repositories.
             * [https://github.com/ondyari/FaceForensics]
             * [https://github.com/HongguLiu/Deepfake-Detection]
  
+ ## Datasets
+ - [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
+ - [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
