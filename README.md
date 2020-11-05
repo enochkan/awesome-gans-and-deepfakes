@@ -14,6 +14,15 @@ A collection of GAN & Deepfake papers and repositories.
             * [https://github.com/osh/KerasGAN]
             * [https://github.com/jason71995/Keras-GAN-Library]
             * [https://github.com/Zackory/Keras-MNIST-GAN]
+- DCGAN [(paper)](https://arxiv.org/abs/1511.06434)
+    * Implementations
+        * PyTorch
+            * [https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN]
+            * [https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/dcgan]
+        * Keras 
+            * [https://github.com/jacobgil/keras-dcgan]
+            * [https://github.com/eriklindernoren/Keras-GAN/blob/master/dcgan/dcgan.py]
+            * [https://github.com/mitchelljy/DCGAN-Keras]
 
 ## Deepfakes
 - Faceswap [(paper)](https://arxiv.org/pdf/2005.05535v4.pdf)
