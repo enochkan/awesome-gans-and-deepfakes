@@ -43,7 +43,6 @@ A curated list of GAN & Deepfake papers and repositories.
             * [https://github.com/HongguLiu/MesoNet-Pytorch]
         * Keras
             * [https://github.com/DariusAf/MesoNet]
-
 - FaceForensics++ [(paper)](https://arxiv.org/abs/1901.08971)
     * Implementations
         * PyTorch
