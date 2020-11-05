@@ -6,3 +6,4 @@ A collection of GAN & Deepfake papers and repositories.
 - Vanilla GAN (paper)[https://arxiv.org/abs/1406.2661]
     * Implementations
         * Pytorch 
+            *[https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan]
