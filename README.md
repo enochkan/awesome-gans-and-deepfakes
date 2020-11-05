@@ -16,7 +16,7 @@ A collection of GAN & Deepfake papers and repositories.
             * [https://github.com/Zackory/Keras-MNIST-GAN]
 
 ## Deepfakes
-- Faceswap [(paper)][https://arxiv.org/pdf/2005.05535v4.pdf]
+- Faceswap [(paper)](https://arxiv.org/pdf/2005.05535v4.pdf)
     * Implementations
         * Original 
             * [https://github.com/deepfakes/faceswap#overview]
