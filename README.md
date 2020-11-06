@@ -15,6 +15,8 @@ Tl;dr GANs containg two competing neural networks which iteratively generate new
 + :heavy_check_mark: WGAN: Wasserstein GAN, [[paper]](https://arxiv.org/abs/1701.07875), [[github]](https://github.com/martinarjovsky/WassersteinGAN)
 + :heavy_check_mark: WGAN-GP: Improved Training of Wasserstein GANs, [[paper]](https://arxiv.org/pdf/1704.00028.pdf), [[github]](https://github.com/caogang/wgan-gp)
 + :heavy_check_mark: RGAN: The relativistic discriminator: a key element missing from standard GAN, [[paper]](https://arxiv.org/abs/1807.00734), [[github]](https://github.com/AlexiaJM/RelativisticGAN)
++ :heavy_check_mark: BGAN: Boundary-Seeking Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1702.08431), [[github]](implementations/bgan/bgan.py)
++ :heavy_check_mark: ClusterGAN: Latent Space Clustering in Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1809.03627), [[github]](https://github.com/sudiptodip15/ClusterGAN)
 
 ### Conditional GANs
 + :heavy_check_mark: CGAN: Conditional Generative Adversarial Nets, [[paper]](https://arxiv.org/abs/1411.1784), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py)
