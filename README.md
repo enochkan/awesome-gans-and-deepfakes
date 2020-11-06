@@ -4,7 +4,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-A curated list of GAN & Deepfake papers and repositories. 
+A curated list of GAN & Deepfake papers and repositories. :heavy_check_mark: means implementation is available.
 
 ## GANs
 Tl;dr GANs containg two competing neural networks which iteratively generate new data with the same statistics as the training set.
