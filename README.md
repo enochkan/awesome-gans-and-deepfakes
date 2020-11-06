@@ -51,8 +51,10 @@ via 3D Generative-Adversarial Modeling, [[paper]](http://3dgan.csail.mit.edu/pap
 + Semantic Image Inpainting with Perceptual and Contextual Losses, [[paper]](https://arxiv.org/abs/1607.07539), [[github]](https://github.com/bamos/dcgan-completion.tensorflow)
 + Generative Face Completion, [[paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit), [[github]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 
-### Image Segmentation
+### Medical Image Segmentation
 + Vox2Vox: 3D-GAN for Brain Tumor Segmentation, [[paper]](https://arxiv.org/abs/2003.13653), [[github]](https://github.com/enochkan/vox2vox)
++ SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation, [[paper]](https://arxiv.org/abs/1706.01805)
++ Generative Adversarial Neural Networks for Pigmented and Non-Pigmented Skin Lesions Detection in Clinical Images, [[paper]](https://ieeexplore.ieee.org/document/7968584/)
 
 ## Deepfakes
 
