@@ -46,11 +46,14 @@ A curated list of GAN & Deepfake papers and repositories.
 
 ## Deepfakes
 
-### Face-swapping
+### CNN-based Face-swapping
 + Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577), [[github]](https://github.com/deepfakes/faceswap#overview)
-
 + DeepFaceLab: A simple, flexible and extensible face
 swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]](https://github.com/iperov/DeepFaceLab)
+
+### GAN-based Face-swapping
++ Fewshot Face Translation GAN, [[github]](https://github.com/shaoanlu/fewshot-face-translation-GAN)
++ Faceswap-GAN, [[github]](https://github.com/shaoanlu/faceswap-GAN)
 
 ## Deepfake Detection
 
