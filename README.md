@@ -50,17 +50,20 @@ A curated list of GAN & Deepfake papers and repositories.
 + Semantic Image Inpainting with Perceptual and Contextual Losses, [[paper]](https://arxiv.org/abs/1607.07539), [[github]](https://github.com/bamos/dcgan-completion.tensorflow)
 + Generative Face Completion, [[paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit), [[github]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 
+### Image Segmentation
++ Vox2Vox: 3D-GAN for Brain Tumor Segmentation, [[paper]](https://arxiv.org/abs/2003.13653), [[github]](https://github.com/enochkan/vox2vox)
+
 ## Deepfakes
-- Faceswap [(paper)](https://arxiv.org/pdf/2005.05535v4.pdf)
-    * Implementations
-        * Original 
-            * [https://github.com/deepfakes/faceswap#overview]
-        * Other versions/ wrappers
-            * [https://github.com/iperov/DeepFaceLab]
-            * [https://github.com/wuhuikai/FaceSwap]
-            * [https://github.com/shaoanlu/faceswap-GAN]
-            * [https://github.com/MarekKowalski/FaceSwap]
-            * [https://github.com/joshua-wu/deepfakes_faceswap]
+- Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577)
+    + Deepfakes/faceswap [[github]](https://github.com/deepfakes/faceswap#overview)
+    + Other versions/ wrappers
+        * wuhuikai/Faceswap, [[github]](https://github.com/wuhuikai/FaceSwap)
+        * shaonlu/faceswap-GAN, [[github]](https://github.com/shaoanlu/faceswap-GAN)
+        * MarekKowalski/Faceswap, [[github]](https://github.com/MarekKowalski/FaceSwap)
+        * joshua-wu/deepfakes_faceswap, [[github]](https://github.com/joshua-wu/deepfakes_faceswap)
+
+- DeepFaceLab: A simple, flexible and extensible face
+swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]](https://github.com/iperov/DeepFaceLab)
 
 ## Deepfake Detection
 - MesoNet [(paper)](https://arxiv.org/abs/1809.00888)
