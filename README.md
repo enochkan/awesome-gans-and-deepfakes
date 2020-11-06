@@ -72,6 +72,11 @@ swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]
 ### GAN-based Face-swapping
 + Fewshot Face Translation GAN, [[github]](https://github.com/shaoanlu/fewshot-face-translation-GAN)
 + Faceswap-GAN, [[github]](https://github.com/shaoanlu/faceswap-GAN)
++ AttGAN: Facial Attribute Editing by Only
+Changing What You Want, [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/2019112511573287.pdf), [[github]](https://github.com/LynnHo/AttGAN-Tensorflow)
++ MulGAN: Facial Attribute Editing by Exemplar, [[paper]](https://arxiv.org/abs/1912.12396)
++ MaskGAN: Towards Diverse and Interactive Facial Image Manipulation, [[paper]](https://arxiv.org/abs/1907.11922), [[github]](https://github.com/switchablenorms/CelebAMask-HQ)
++ StarGAN v2: Diverse Image Synthesis for Multiple Domains, [[paper]](https://arxiv.org/abs/1912.01865), [[github]](https://github.com/clovaai/stargan-v2)
 
 ## Deepfake Detection
 
