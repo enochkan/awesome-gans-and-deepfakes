@@ -24,6 +24,7 @@ Tl;dr GANs contain two networks: a generator and a discriminator. The generator 
 ### Volumetric (3D) Generation
 + 3DGAN: Learning a Probabilistic Latent Space of Object Shapes
 via 3D Generative-Adversarial Modeling, [[paper]](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf), [[github]](https://github.com/enochkan/3dgan-keras)
++ Inverse Graphics GAN: Inverse Graphics GAN - Learning to Generate 3D Shapes from Unstructured 2D Data, [[paper]](https://arxiv.org/pdf/2002.12674.pdf), [[github]](https://github.com/BraneShop/showreel/issues/504)
 
 ## Applications using GANs
 
