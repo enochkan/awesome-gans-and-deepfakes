@@ -54,29 +54,23 @@ A curated list of GAN & Deepfake papers and repositories.
 + Vox2Vox: 3D-GAN for Brain Tumor Segmentation, [[paper]](https://arxiv.org/abs/2003.13653), [[github]](https://github.com/enochkan/vox2vox)
 
 ## Deepfakes
-- Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577)
-    + Deepfakes/faceswap [[github]](https://github.com/deepfakes/faceswap#overview)
+
+### Face-swapping
++ Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577), [[github]](https://github.com/deepfakes/faceswap#overview)
     + Other versions/ wrappers
         * wuhuikai/Faceswap, [[github]](https://github.com/wuhuikai/FaceSwap)
         * shaonlu/faceswap-GAN, [[github]](https://github.com/shaoanlu/faceswap-GAN)
         * MarekKowalski/Faceswap, [[github]](https://github.com/MarekKowalski/FaceSwap)
         * joshua-wu/deepfakes_faceswap, [[github]](https://github.com/joshua-wu/deepfakes_faceswap)
 
-- DeepFaceLab: A simple, flexible and extensible face
++ DeepFaceLab: A simple, flexible and extensible face
 swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]](https://github.com/iperov/DeepFaceLab)
 
 ## Deepfake Detection
-- MesoNet [(paper)](https://arxiv.org/abs/1809.00888)
-    * Implementations
-        * PyTorch
-            * [https://github.com/HongguLiu/MesoNet-Pytorch]
-        * Keras
-            * [https://github.com/DariusAf/MesoNet]
-- FaceForensics++ [(paper)](https://arxiv.org/abs/1901.08971)
-    * Implementations
-        * PyTorch
-            * [https://github.com/ondyari/FaceForensics]
-            * [https://github.com/HongguLiu/Deepfake-Detection]
+
+### CNN-based methods
+- MesoNet [(paper)](https://arxiv.org/abs/1809.00888), [[github]](https://github.com/HongguLiu/MesoNet-Pytorch)
+
  
  ## Datasets
  - [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
