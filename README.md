@@ -8,6 +8,8 @@ Tl;dr GANs contain two networks: a generator and a discriminator. The generator 
 ### Unconditional GANs
 + Vanilla GAN: Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan)
 + DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1511.06434), [[github]](https://github.com/carpedm20/DCGAN-tensorflow)
++ WGAN: Wasserstein GAN, [[paper]](https://arxiv.org/abs/1701.07875), [[github]](https://github.com/martinarjovsky/WassersteinGAN)
++ WGAN-GP: Improved Training of Wasserstein GANs, [[paper]](https://arxiv.org/pdf/1704.00028.pdf), [[github]](https://github.com/caogang/wgan-gp)
 
 ### Conditional GANs
 + CGAN: Conditional Generative Adversarial Nets, [[paper]](https://arxiv.org/abs/1411.1784), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py)
@@ -15,6 +17,7 @@ Tl;dr GANs contain two networks: a generator and a discriminator. The generator 
 
 ### Image-to-Image Translation
 + CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [[paper]](https://arxiv.org/abs/1703.10593), [[github]](https://github.com/junyanz/CycleGAN)
++ StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1711.09020), [[github]](https://github.com/yunjey/stargan)
 
 ## Applications using GANs
 
