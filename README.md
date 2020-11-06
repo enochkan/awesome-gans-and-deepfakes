@@ -3,7 +3,7 @@
 A curated list of GAN & Deepfake papers and repositories. 
 
 ## GANs
-Tl;dr GANs contain two networks: a generator and a discriminator. The generator creates 'fake' images from noise to fool the discriminator, which attempts to distinguish real images from 'fake' images. Through adversarial training the generator should generate images that closely resemble training images. 
+Tl;dr GANs containg two competing neural networks which iteratively generate new data with the same statistics as the training set.
 
 ### Unconditional GANs
 + Vanilla GAN: Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan)
@@ -58,6 +58,7 @@ via 3D Generative-Adversarial Modeling, [[paper]](http://3dgan.csail.mit.edu/pap
 + Generative Adversarial Neural Networks for Pigmented and Non-Pigmented Skin Lesions Detection in Clinical Images, [[paper]](https://ieeexplore.ieee.org/document/7968584/)
 
 ## Deepfakes
+Tl;dr Deepfakes are fake videos or audio recordings that look and sound just like the real thing.
 
 ### CNN-based Face-swapping
 + Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577), [[github]](https://github.com/deepfakes/faceswap#overview)
