@@ -1,5 +1,7 @@
 # Awesome-GANS-and-Deepfakes
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 A curated list of GAN & Deepfake papers and repositories. 
 
 ## GANs
