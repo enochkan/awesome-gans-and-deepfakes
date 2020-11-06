@@ -3,6 +3,7 @@
 A curated list of GAN & Deepfake papers and repositories. 
 
 ## GANs
+Tl;dr GANs contain two networks: a generator and a discriminator. The generator creates 'fake' images from noise to fool the discriminator, which attempts to distinguish real images from 'fake' images. Through adversarial training the generator should generate images that closely resemble training images. 
 
 ### Unconditional GANs
 + Vanilla GAN: Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan)
