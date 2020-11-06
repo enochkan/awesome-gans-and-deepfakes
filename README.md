@@ -62,7 +62,7 @@ via 3D Generative-Adversarial Modeling, [[paper]](http://3dgan.csail.mit.edu/pap
 + Generative Adversarial Neural Networks for Pigmented and Non-Pigmented Skin Lesions Detection in Clinical Images, [[paper]](https://ieeexplore.ieee.org/document/7968584/)
 
 ## Deepfakes
-Tl;dr Deepfakes are fake videos or audio recordings that look and sound just like the real thing.
+Tl;dr Deepfakes are fake videos or audio recordings that look and sound just like the real thing. Watch this video of [Obama speaking](https://www.youtube.com/watch?v=cQ54GDm1eL0)... or was that really him?
 
 ### CNN-based Face-swapping
 + :heavy_check_mark: Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577), [[github]](https://github.com/deepfakes/faceswap#overview)
@@ -84,8 +84,6 @@ Changing What You Want, [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/201911
 + :heavy_check_mark: MesoNet [[paper]](https://arxiv.org/abs/1809.00888), [[github]](https://github.com/HongguLiu/MesoNet-Pytorch)
 + Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches, [[paper]](https://www.ohadf.com/papers/AgarwalFaridFriedAgrawala_CVPRW2020.pdf)
 + Deep Fake Image Detection Based on Pairwise Learning, [[paper]](https://www.mdpi.com/2076-3417/10/1/370)
-
-
  
  ## Datasets
 + [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
