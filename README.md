@@ -71,10 +71,12 @@ swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]
 
  
  ## Datasets
- - [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
- - [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
- - [Facebook Deepfake Detection Challenge (DFDC) Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data)
- - ["SwapMe and Faceswap" dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
- - ["Fake Faces in the Wild (FFW) dataset](http://ali.khodabakhsh.org/research/ffw/)
- - [Tampered Face (TAMFA) Dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
- - [Celeb-DF(v2) Celebrity Deepfake Dataset](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)
++ [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
++ [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
++ [Facebook Deepfake Detection Challenge (DFDC) Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data)
++ ["SwapMe and Faceswap" dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
++ ["Fake Faces in the Wild (FFW) dataset](http://ali.khodabakhsh.org/research/ffw/)
++ [Tampered Face (TAMFA) Dataset](https://www.sciencedirect.com/science/article/pii/S0957417419302350?via%3Dihub)
++ [Celeb-DF(v2) Celebrity Deepfake Dataset](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)
++ [DeeperForensics-1.0](https://arxiv.org/pdf/2001.03024.pdf)
++ [Diverse Fake Face Dataset (DFFD)](https://arxiv.org/pdf/1910.01717.pdf)
