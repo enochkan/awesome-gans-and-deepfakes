@@ -57,11 +57,6 @@ A curated list of GAN & Deepfake papers and repositories.
 
 ### Face-swapping
 + Fast Face-swap Using Convolutional Neural Networks, [[paper]](https://arxiv.org/abs/1611.09577), [[github]](https://github.com/deepfakes/faceswap#overview)
-    + Other versions/ wrappers
-        * wuhuikai/Faceswap, [[github]](https://github.com/wuhuikai/FaceSwap)
-        * shaonlu/faceswap-GAN, [[github]](https://github.com/shaoanlu/faceswap-GAN)
-        * MarekKowalski/Faceswap, [[github]](https://github.com/MarekKowalski/FaceSwap)
-        * joshua-wu/deepfakes_faceswap, [[github]](https://github.com/joshua-wu/deepfakes_faceswap)
 
 + DeepFaceLab: A simple, flexible and extensible face
 swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]](https://github.com/iperov/DeepFaceLab)
@@ -69,7 +64,10 @@ swapping framework, [[paper]](https://arxiv.org/pdf/2005.05535v4.pdf), [[github]
 ## Deepfake Detection
 
 ### CNN-based methods
-- MesoNet [(paper)](https://arxiv.org/abs/1809.00888), [[github]](https://github.com/HongguLiu/MesoNet-Pytorch)
++ MesoNet [[paper]](https://arxiv.org/abs/1809.00888), [[github]](https://github.com/HongguLiu/MesoNet-Pytorch)
++ Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches, [[paper]](https://www.ohadf.com/papers/AgarwalFaridFriedAgrawala_CVPRW2020.pdf)
++ Deep Fake Image Detection Based on Pairwise Learning, [[paper]](https://www.mdpi.com/2076-3417/10/1/370)
+
 
  
  ## Datasets
