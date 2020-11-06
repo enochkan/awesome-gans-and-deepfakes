@@ -3,27 +3,18 @@
 A curated list of GAN & Deepfake papers and repositories. 
 
 ## GANs
-- Vanilla GAN [(paper)](https://arxiv.org/abs/1406.2661)
-    * Implementations
-        * PyTorch 
-            * [https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan]
-            * [https://github.com/devnag/pytorch-generative-adversarial-networks]
-            * [https://github.com/shivakanthsujit/GAN-PyTorch]
-        * Keras
-            * [https://github.com/eriklindernoren/Keras-GAN/tree/master/gan]
-            * [https://github.com/osh/KerasGAN]
-            * [https://github.com/jason71995/Keras-GAN-Library]
-            * [https://github.com/Zackory/Keras-MNIST-GAN]
-- DCGAN [(paper)](https://arxiv.org/abs/1511.06434)
-    * Implementations
-        * PyTorch
-            * [https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN]
-            * [https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/dcgan]
-        * Keras 
-            * [https://github.com/jacobgil/keras-dcgan]
-            * [https://github.com/eriklindernoren/Keras-GAN/blob/master/dcgan/dcgan.py]
-            * [https://github.com/mitchelljy/DCGAN-Keras]
-            
+
+### Unconditional GANs
++ Vanilla GAN: Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/gan)
++ DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1511.06434), [[github]](https://github.com/carpedm20/DCGAN-tensorflow)
+
+### Conditional GANs
++ CGAN: Conditional Generative Adversarial Nets, [[paper]](https://arxiv.org/abs/1411.1784), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py)
++ ACGAN: Conditional Image Synthesis With Auxiliary Classifier GANs, [[paper]](https://arxiv.org/abs/1610.09585), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/acgan/acgan.py)
+
+### Image-to-Image Translation
++ CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [[paper]](https://arxiv.org/abs/1703.10593), [[github]](https://github.com/junyanz/CycleGAN)
+
 ## Applications using GANs
 
 ### Anime generator
