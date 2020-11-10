@@ -86,6 +86,12 @@ Changing What You Want, [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/201911
 + :heavy_check_mark: MesoNet [[paper]](https://arxiv.org/abs/1809.00888), [[github]](https://github.com/HongguLiu/MesoNet-Pytorch)
 + Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches, [[paper]](https://www.ohadf.com/papers/AgarwalFaridFriedAgrawala_CVPRW2020.pdf)
 + Deep Fake Image Detection Based on Pairwise Learning, [[paper]](https://www.mdpi.com/2076-3417/10/1/370)
+
+### RCN-based methods
++ Recurrent Convolutional Strategies for Face Manipulation Detection in Videos, [[paper]](https://arxiv.org/pdf/1905.00582.pdf)
+
+### Other ML methods
++ SVM: Exposing Deep Fakes Using Inconsistent Head Poses, [[paper]](https://ieeexplore.ieee.org/document/8683164)
  
  ## Datasets
 + [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
