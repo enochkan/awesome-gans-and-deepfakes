@@ -79,6 +79,7 @@ Changing What You Want, [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/201911
 + MulGAN: Facial Attribute Editing by Exemplar, [[paper]](https://arxiv.org/abs/1912.12396)
 + :heavy_check_mark: MaskGAN: Towards Diverse and Interactive Facial Image Manipulation, [[paper]](https://arxiv.org/abs/1907.11922), [[github]](https://github.com/switchablenorms/CelebAMask-HQ)
 + :heavy_check_mark: StarGAN v2: Diverse Image Synthesis for Multiple Domains, [[paper]](https://arxiv.org/abs/1912.01865), [[github]](https://github.com/clovaai/stargan-v2)
++ :heavy_check_mark: FSGAN: Subject Agnostic Face Swapping and Reenactment, [[paper]](https://arxiv.org/pdf/1908.05932.pdf), [[github]](https://github.com/YuvalNirkin/fsgan)
 
 ## Deepfake Detection
 
