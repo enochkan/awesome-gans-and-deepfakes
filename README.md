@@ -21,12 +21,14 @@ Tl;dr GANs containg two competing neural networks which iteratively generate new
 ### Conditional GANs
 + :heavy_check_mark: CGAN: Conditional Generative Adversarial Nets, [[paper]](https://arxiv.org/abs/1411.1784), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py)
 + :heavy_check_mark: ACGAN: Conditional Image Synthesis With Auxiliary Classifier GANs, [[paper]](https://arxiv.org/abs/1610.09585), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/acgan/acgan.py)
++ :heavy_check_mark: CCGAN: Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1611.06430), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ccgan/ccgan.py)
 
 ### Image-to-Image Translation
 + :heavy_check_mark: CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [[paper]](https://arxiv.org/abs/1703.10593), [[github]](https://github.com/junyanz/CycleGAN)
 + :heavy_check_mark: StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1711.09020), [[github]](https://github.com/yunjey/stargan)
 + :heavy_check_mark: Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets, [[paper]](https://arxiv.org/abs/1611.07004), [[github]](https://github.com/phillipi/pix2pix)
-+ :heavy_check_mark: DualGAN: Unsupervised Dual Learning for Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1704.02510), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dualgan/dualgan.py)
++ :heavy_check_mark: DualGAN: Unsupervised Dual Learning for Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1704.02510), [[github]](https://github.com/duxingren14/DualGAN)
++ :heavy_check_mark: BicycleGAN: Toward Multimodal Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1711.11586), [[github]](https://github.com/junyanz/BicycleGAN)
 
 ### Volumetric (3D) Generation
 + :heavy_check_mark: 3DGAN: Learning a Probabilistic Latent Space of Object Shapes
@@ -53,7 +55,9 @@ via 3D Generative-Adversarial Modeling, [[paper]](http://3dgan.csail.mit.edu/pap
 + :heavy_check_mark: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, [[paper]](https://arxiv.org/abs/1609.04802), [[github]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 + High-Quality Face Image Super-Resolution Using Conditional Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1707.00737.pdf)
 + :heavy_check_mark: Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network, [[paper]](https://arxiv.org/pdf/1811.00344.pdf), [[github]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
-+ :heavy_check_mark: ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1809.00219), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/esrgan/esrgan.py)
++ :heavy_check_mark: ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1809.00219), [[github]](https://github.com/xinntao/ESRGAN)
++ :heavy_check_mark: MUNIT: Multimodal Unsupervised Image-to-Image Translation, [[paper]](https://arxiv.org/abs/1804.04732), [[github]](https://github.com/nvlabs/MUNIT)
++ :heavy_check_mark: SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, [[paper]](https://arxiv.org/abs/1609.04802), [[github]](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/srgan/srgan.py)
 
 ### Image Inpainting (hole filling)
 + :heavy_check_mark: Context Encoders: Feature Learning by Inpainting, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf), [[github]](https://github.com/pathak22/context-encoder)
